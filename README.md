@@ -1,7 +1,7 @@
 loose cannon
 ctrl+alt+revolt
 
-2 THE QUIET HAND ON THE SCALE
+THE QUIET HAND ON THE SCALE
 Feb 22, 2026
 
 
