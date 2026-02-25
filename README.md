@@ -35,13 +35,13 @@ The other produces sovereignty.
 
 Empires have always preferred the first.
 
-Influence rarely arrives as overt control. It arrives as participation. Sponsorship. Advisory roles. “Enterprise requirements.” Security compliance initiatives. Well-meaning contributors whose priorities gradually reshape roadmaps toward inspectability, centralization, and policy enforcement.
+### Influence rarely arrives as overt control. It arrives as participation. Sponsorship. Advisory roles. “Enterprise requirements.” Security compliance initiatives. Well-meaning contributors whose priorities gradually reshape roadmaps toward inspectability, centralization, and policy enforcement.
 
 No villain required.
 
 Just incentives aligned with power.
 
-The panoptic gaze expands not by force, but by gravity.
+### The panoptic gaze expands not by force, but by gravity.
 
 Cloud-native architectures become defaults. Synchronization assumes servers. Identity assumes brokers. Convenience assumes connectivity. And each assumption widens the surface through which observation can occur — legally, commercially, or quietly.
 
@@ -49,7 +49,7 @@ All while users believe they are gaining security.
 
 The most effective surveillance systems are the ones people adopt voluntarily.
 
-Hardware offers the clearest analogy.
+### Hardware offers the clearest analogy.
 
 A sealed device: no removable battery, radios always active, firmware opaque.
 
@@ -92,7 +92,7 @@ An ecosystem dominated entirely by cloud-mediated identity and storage becomes i
 
 And architecture is shaped by funding.
 
-So what is required?
+## So what is required?
 
 Not paranoia.
 
@@ -120,7 +120,7 @@ The gaze is already there.
 
 The only question is how much of your world it can see.
 
-The real question isn’t whether cloud systems are bad.
+### The real question isn’t whether cloud systems are bad.
 
 They are often extremely useful.
 
@@ -142,4 +142,4 @@ Because the future of autonomy rarely disappears overnight.
 
 It erodes gradually…
 
-…until someone decides it’s worth rebuilding again.
+_…until someone decides it’s worth rebuilding again._
